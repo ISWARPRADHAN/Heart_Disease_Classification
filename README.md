@@ -1,6 +1,6 @@
 # <div align="center">Heart Disease Classification using Machine Learning</div>
 <div align="center"><img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/intro.gif?raw=true" width="80%"></div>
-                                   
+
 
 ## Overview:
 WHO announced that cardiovascular diseases is the top one killer over the world. There are seventeen million people died from it every year, especially heart disease. Prevention is better than cure. If we can evaluate the risk of every patient who probably has heart disease, that is, not only patients but also everyone can do something earlier to keep illness away.
@@ -29,29 +29,29 @@ There are thirteen features and one target as below:
 
 **Libraries:**  `NumPy` `pandas` `matplotlib` `sklearn` `seaborn`
 ## Data Exploration:
-<img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/output/eda1.PNG?raw=true" width="40%"> <img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/output/eda2.PNG?raw=true" width="40%">
+<img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/eda1.PNG?raw=true" width="40%"> <img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/eda2.PNG?raw=true" width="40%">
 
 ### Heart disease frequency w.r.t. Age:
-<img src ="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/output/eda3.PNG?raw=true">
-<img src = "https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/output/eda4.PNG?raw=true" width="80%">
-<img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/output/eda5.PNG?raw=true">
+<img src ="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/eda3.PNG?raw=true">
+<img src = "https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/eda4.PNG?raw=true" width="80%">
+<img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/eda5.PNG?raw=true">
 
 ### Heart disease frequency w.r.t. Slope:
-<img src= "https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/output/eda6.PNG?raw=true" width="80%">
+<img src= "https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/eda6.PNG?raw=true" width="80%">
 
 ### Heart disease frequency w.r.t. FBS:
-<img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/output/fbs.PNG?raw=true" width="80%">
+<img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/fbs.PNG?raw=true" width="80%">
 
 ## Heart disease frequency w.r.t. Chest pain type:
-<img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/output/pain.PNG?raw=true" width="80%"><br>
+<img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/pain.PNG?raw=true" width="80%"><br>
 
 ## Model training, Evaluations, and Predictions:
-<img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/output/acc.PNG?raw=true" width="80%">
+<img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/acc.PNG?raw=true" width="80%">
 <br>
 Our models work fine but best of them are KNN and Random Forest with 88.52% of accuracy. Let's look their confusion matrixes.
 
 #### Confusion matrices:
-<img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/output/CM.PNG?raw=true" width="70%">
+<img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/CM.PNG?raw=true" width="70%">
 
 Heart_Disease_Classification
 ### Learnings:
