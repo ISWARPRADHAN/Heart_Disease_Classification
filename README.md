@@ -1,6 +1,6 @@
 # <div align="center">Heart Disease Classification using Machine Learning</div>
-<div align="center"><img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/output/intro.gif?raw=true" width="80%"></div>
-
+<div align="center"><img src="https://github.com/ISWARPRADHAN/Heart_Disease_Classification/blob/main/intro.gif?raw=true" width="80%"></div>
+                                   
 
 ## Overview:
 WHO announced that cardiovascular diseases is the top one killer over the world. There are seventeen million people died from it every year, especially heart disease. Prevention is better than cure. If we can evaluate the risk of every patient who probably has heart disease, that is, not only patients but also everyone can do something earlier to keep illness away.
